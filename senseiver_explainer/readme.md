@@ -22,7 +22,7 @@ The Senseiver Explainer GPT is used to answer queries related to the academic pa
 This project is designed for specific academic purposes. However, contributions for expanding its scope or improving its accuracy are welcome. Please follow the contributing guidelines listed in `CONTRIBUTING.md`.
 
 ## License
-This project is licensed under the [MIT License](LICENSE.md) - see the `LICENSE.md` file for details.
+This project is licensed under the [GPL-2.0 license](https://github.com/mimas-data/senseiver_explainer/blob/main/LICENSE) - see the `LICENSE.md` file for details.
 
 ## Acknowledgments
 - Credit to the authors of the original academic paper and creators of the associated YouTube video.
