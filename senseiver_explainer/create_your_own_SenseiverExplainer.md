@@ -25,7 +25,7 @@ To create your version of Senseiver Explainer, follow these steps:
 
 1. **Clone the Repository**: Begin by cloning the [mimas-data/senseiver_explainer](https://github.com/mimas-data/senseiver_explainer) repository to your local machine.
 2. **Understand the Files**: Familiarize yourself with the files in the repository, particularly the Senseiver paper and the instructions text file.
-3. **Create a GPT Using the GPT Editor**: Follow the guide at [Creating a GPT | OpenAI Help Center](https://help.openai.com/en/articles/8554397-creating-a-gpt) to create a GPT using the [GPT editor](https://chat.openai.com/gpts/editor).
+3. **Create a GPT Using the GPT Editor**: Follow the guide at [Creating a GPT - OpenAI Help Center](https://help.openai.com/en/articles/8554397-creating-a-gpt) to create a GPT using the [GPT editor](https://chat.openai.com/gpts/editor).
 4. **Copy Instructions**: Copy the text from `Senseiver_instructions.txt` into the GPT setup.
 5. **Upload Additional Files**: Upload the other files in the repository, including `s42256-023-00746-x.pdf` and `SensorAI_transcript.txt`.
 
