@@ -9,7 +9,8 @@ The Senseiver Explainer GPT is a specialized AI model designed to provide in-dep
 - **User Interaction**: Tailored to respond to specific user queries about the academic content, ensuring relevancy and precision.
 
 ## Installation
-This section would typically contain instructions on cloning the repository and setting up the environment. As the Senseiver Explainer GPT is specialized and may not require a typical installation process, provide any necessary instructions or note that setup is specialized.
+
+To create your own copy follow these instructions: [Replicating Senseiver Explainer: A Comprehensive Guide](./create_your_own_SenseiverExplainer.md)
 
 ## Usage
 The Senseiver Explainer GPT is used to answer queries related to the academic paper and its associated YouTube video. Users can ask specific questions, and the GPT will respond with information directly from these sources.
