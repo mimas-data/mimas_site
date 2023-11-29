@@ -12,8 +12,8 @@ The GitHub repository [mimas-data/senseiver_explainer](https://github.com/mimas-
 In order to create or use GPTs like Senseiver Explainer, you will need an OpenAI account [OpenAI Chat](https://chat.openai.com/):
 
 - [Introducing GPTs - OpenAI](https://openai.com/blog/introducing-gpts)
-- [GPTs FAQ | OpenAI Help Center](https://help.openai.com/en/articles/8554407-gpts-faq)
-- [Creating a GPT | OpenAI Help Center](https://help.openai.com/en/articles/8554397-creating-a-gpt)
+- [GPTs FAQ - OpenAI Help Center](https://help.openai.com/en/articles/8554407-gpts-faq)
+- [Creating a GPT - OpenAI Help Center](https://help.openai.com/en/articles/8554397-creating-a-gpt)
 - [How to build your own custom ChatGPT with OpenAI's GPT builder - Zapier](https://zapier.com/blog/custom-chatgpt/)
 - [Video GPT Builder Tutorial](https://youtu.be/TSkYyJ7gsXs)
 
