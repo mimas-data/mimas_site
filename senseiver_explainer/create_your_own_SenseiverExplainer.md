@@ -9,7 +9,9 @@ Senseiver Explainer is a specialized AI model designed to provide in-depth expla
 
 The GitHub repository [mimas-data/senseiver_explainer](https://github.com/mimas-data/senseiver_explainer) serves as the foundation for replicating the Senseiver Explainer. This repository houses all essential files, including a stable PDF of the [Senseiver paper](https://www.nature.com/articles/s42256-023-00746-x), which is central to the AI model's functionality. For a summary of this paper, visit the [Senseiver paper summary](./Senseiver_paper_summary.html). Keep in mind that while some files in the repository may evolve, core documents like the Senseiver paper remain unchanged.
 
-In order to create or use GPTs like Senseiver Explainer, you will need an OpenAI account [OpenAI Chat](https://chat.openai.com/):
+In order to create or use GPTs like Senseiver Explainer, you will need an [OpenAI Chat ccount](https://chat.openai.com/).
+
+Addtional resources:
 
 - [Introducing GPTs - OpenAI](https://openai.com/blog/introducing-gpts)
 - [GPTs FAQ - OpenAI Help Center](https://help.openai.com/en/articles/8554407-gpts-faq)
